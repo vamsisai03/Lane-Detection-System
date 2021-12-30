@@ -1,0 +1,8 @@
+Import this python libraries before running the project:
+
+matplotlib.pyplot
+matplotlib.image
+numpy
+cv2
+math
+sys
